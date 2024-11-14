@@ -1,4 +1,4 @@
-# Excel_skill_salary_analysis
+# Skill_Salary_analysis w/Excel
 
 ## Introduction
 
